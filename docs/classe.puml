@@ -1,0 +1,50 @@
+@startuml name QuizAdventure
+
+title QuizAdventure
+
+class Player {
+  id: int
+  +name: string
+  +highScore: int
+}
+
+class Question {
+  +text: string
+  image: string  
+  -level: int
+  -answers: string[]
+  -correctAnswer: int
+  ' -correctAnswers: int[]
+  ' type: QuestionType
+}
+
+class Game {
+  ' questionList: Question[] ?
+  +currentQuestion: Question
+  player: Player
+  currentLevel: int
+  currentScore: int
+  state: State
+  startGame(player)
+  getScore()
+  getNextQuestion(currentLevel)
+}
+
+enum State {
+  RUNNING
+  ENDED
+}
+
+' enum QuestionType {
+'   ONE_ANSWER
+'   MULTIPLE_ANSWERS
+'   TEXT
+' }
+
+"Player" "1" -- "1" "Game" : plays
+"Game" "1" -- "1" "Question" : displayed by
+"Game" "1" -- "1" "State" : is
+' "Question" "1" -- "1" "QuestionType" : is
+
+
+@enduml

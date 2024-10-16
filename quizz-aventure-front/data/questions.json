@@ -1,0 +1,250 @@
+[
+    {
+        "level": 1,
+        "text": "Quelle est la couleur du ciel pendant une journée ensoleillée ?",
+        "image": "sky",
+        "type": "ONE_ANSWER",
+        "answers": ["Bleu", "Vert", "Rouge", "Jaune"],
+        "correctAnswer": 0
+    },
+    {
+        "level": 1,
+        "text": "Quel est le plus grand mammifère terrestre ?",
+        "image": "mammals",
+        "type": "ONE_ANSWER",
+        "answers": ["Éléphant", "Girafe", "Ours", "Tigre"],
+        "correctAnswer": 0
+    },
+    {
+        "level": 1,
+        "text": "Quelle est la capitale de la France ?",
+        "image": "france",
+        "type": "ONE_ANSWER",
+        "answers": ["Berlin", "Madrid", "Paris", "Lisbonne"],
+        "correctAnswer": 2
+    },
+    {
+        "level": 1,
+        "text": "Quel est le symbole chimique de l'eau ?",
+        "image": "water",
+        "type": "ONE_ANSWER",
+        "answers": ["H2O", "O2", "CO2", "NaCl"],
+        "correctAnswer": 0
+    },
+    {
+        "level": 1,
+        "text": "Quel est l'instrument de musique à cordes le plus joué au monde ?",
+        "image": "music",
+        "type": "ONE_ANSWER",
+        "answers": ["Piano", "Guitare", "Violon", "Flûte"],
+        "correctAnswer": 1
+    },
+    {
+        "level": 2,
+        "text": "Quels fruits sont des fruits tropicaux ? (choisissez plusieurs réponses)",
+        "image": "tropical",
+        "type": "MULTIPLE_ANSWERS",
+        "answers": ["Pomme", "Mangue", "Banane", "Fraise"],
+        "correctAnswers": [1, 2]
+    },
+    {
+        "level": 2,
+        "text": "Quels animaux sont des reptiles ? (choisissez plusieurs réponses)",
+        "image": "reptile",
+        "type": "MULTIPLE_ANSWERS",
+        "answers": ["Crocodile", "Perroquet", "Tortue", "Chat"],
+        "correctAnswers": [0, 2]
+    },
+    {
+        "level": 1,
+        "text": "Quel est l'organe principal de la respiration humaine ?",
+        "image": "breathing",
+        "type": "ONE_ANSWER",
+        "answers": ["Cœur", "Foie", "Poumons", "Reins"],
+        "correctAnswer": 2
+    },
+    {
+        "level": 1,
+        "text": "Quel pays a pour capitale Londres ?",
+        "image": "london",
+        "type": "ONE_ANSWER",
+        "answers": ["Royaume-Uni", "Canada", "Australie", "Nouvelle-Zélande"],
+        "correctAnswer": 0
+    },
+    {
+        "level": 1,
+        "text": "Qui a écrit 'Les Misérables' ?",
+        "image": "books",
+        "type": "ONE_ANSWER",
+        "answers": ["Victor Hugo", "Marcel Proust", "Émile Zola", "Gustave Flaubert"],
+        "correctAnswer": 0
+    },
+    {
+        "level": 2,
+        "text": "Quels sports sont des sports d'équipe ? (choisissez plusieurs réponses)",
+        "image": "sports",
+        "type": "MULTIPLE_ANSWERS",
+        "answers": ["Football", "Tennis", "Basketball", "Golf"],
+        "correctAnswers": [0, 2]
+    },
+    {
+        "level": 1,
+        "text": "Quelle est la monnaie utilisée au Japon ?",
+        "image": "currency",
+        "type": "ONE_ANSWER",
+        "answers": ["Yen", "Dollar", "Euro", "Livre"],
+        "correctAnswer": 0
+    },
+    {
+        "level": 1,
+        "text": "Quel est l'élément le plus léger du tableau périodique ?",
+        "image": "chemistry",
+        "type": "ONE_ANSWER",
+        "answers": ["Hydrogène", "Hélium", "Lithium", "Béryllium"],
+        "correctAnswer": 0
+    },
+    {
+        "level": 2,
+        "text": "Quels sont des océans de la Terre ? (choisissez plusieurs réponses)",
+        "image": "ocean",
+        "type": "MULTIPLE_ANSWERS",
+        "answers": ["Atlantique", "Montagne", "Indien", "Arctique"],
+        "correctAnswers": [0, 2, 3]
+    },
+    {
+        "level": 1,
+        "text": "Quelle planète est connue comme la planète rouge ?",
+        "image": "planets",
+        "type": "ONE_ANSWER",
+        "answers": ["Terre", "Mars", "Jupiter", "Vénus"],
+        "correctAnswer": 1
+    },
+    {
+        "level": 1,
+        "text": "Quelle est la langue la plus parlée dans le monde ?",
+        "image": "language",
+        "type": "ONE_ANSWER",
+        "answers": ["Anglais", "Espagnol", "Mandarin", "Français"],
+        "correctAnswer": 2
+    },
+    {
+        "level": 2,
+        "text": "Quelles propositions sont des légumes ? (choisissez plusieurs réponses)",
+        "image": "vegetable",
+        "type": "MULTIPLE_ANSWERS",
+        "answers": ["Carotte", "Pomme", "Brocoli", "Banane"],
+        "correctAnswers": [0, 2]
+    },
+    {
+        "level": 1,
+        "text": "Quel est le système d'exploitation le plus utilisé sur les ordinateurs ?",
+        "image": "computer",
+        "type": "ONE_ANSWER",
+        "answers": ["Windows", "Linux", "Mac", "Chrome OS"],
+        "correctAnswer": 0
+    },
+    {
+        "level": 1,
+        "text": "Quelle est la plus grande planète du système solaire ?",
+        "image": "planet",
+        "type": "ONE_ANSWER",
+        "answers": ["Mars", "Terre", "Jupiter", "Saturne"],
+        "correctAnswer": 2
+    },
+    {
+        "level": 2,
+        "text": "Quels sont des continents de la Terre ? (choisissez plusieurs réponses)",
+        "image": "continent",
+        "type": "MULTIPLE_ANSWERS",
+        "answers": ["Europe", "Atlantique", "Asie", "Antarctique"],
+        "correctAnswers": [0, 2, 3]
+    },
+    {
+        "level": 1,
+        "text": "Quel est l'élément chimique dont le symbole est O ?",
+        "image": "chemistry",
+        "type": "ONE_ANSWER",
+        "answers": ["Oxygène", "Hydrogène", "Carbone", "Azote"],
+        "correctAnswer": 0
+    },
+    {
+        "level": 3,
+        "text": "Qui a formulé la théorie de la relativité ?",
+        "image": "physics",
+        "type": "ONE_ANSWER",
+        "answers": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Stephen Hawking"],
+        "correctAnswer": 1
+    },
+    {
+        "level": 2,
+        "text": "Quels sont des types de nuages ? (choisissez plusieurs réponses)",
+        "image": "clouds",
+        "type": "MULTIPLE_ANSWERS",
+        "answers": ["Cumulus", "Stratus", "Montagne", "Cirrus"],
+        "correctAnswers": [0, 1, 3]
+    },
+    {
+        "level": 1,
+        "text": "Quelle est la capitale de la France ?",
+        "image": "france",
+        "type": "ONE_ANSWER",
+        "answers": ["Berlin", "Madrid", "Paris", "Rome"],
+        "correctAnswer": 2
+    },
+    {
+        "level": 3,
+        "text": "Quel est le nom de la théorie de Darwin sur l'évolution des espèces ?",
+        "image": "biology",
+        "type": "ONE_ANSWER",
+        "answers": ["Sélection naturelle", "Théorie des cordes", "Génétique", "Écosystème"],
+        "correctAnswer": 0
+    },
+    {
+        "level": 1,
+        "text": "En quelle année l'homme a-t-il marché sur la Lune pour la première fois ?",
+        "image": "astronaut",
+        "type": "ONE_ANSWER",
+        "answers": ["1965", "1969", "1972", "1980"],
+        "correctAnswer": 1
+    },
+    {
+        "level": 3,
+        "text": "Quel est l'acide principal dans l'acide sulfurique ?",
+        "image": "chemistry",
+        "type": "ONE_ANSWER",
+        "answers": ["Acide acétique", "Acide chlorhydrique", "Acide sulfurique", "Acide citrique"],
+        "correctAnswer": 2
+    },
+    {
+        "level": 3,
+        "text": "Quel est le livre le plus vendu de tous les temps ?",
+        "image": "book",
+        "type": "ONE_ANSWER",
+        "answers": ["Harry Potter", "Le Seigneur des Anneaux", "La Bible", "Don Quichotte"],
+        "correctAnswer": 2
+    },
+    {
+        "level": 1,
+        "text": "Quel est le symbole chimique de l'eau ?",
+        "image": "water",
+        "type": "ONE_ANSWER",
+        "answers": ["CO2", "H2O", "O2", "CH4"],
+        "correctAnswer": 1
+    },
+    {
+        "level": 3,
+        "text": "Qui a peint la Joconde ?",
+        "image": "joconde",
+        "type": "ONE_ANSWER",
+        "answers": ["Pablo Picasso", "Leonardo da Vinci", "Vincent van Gogh", "Claude Monet"],
+        "correctAnswer": 1
+    },
+    {
+        "level": 2,
+        "text": "Quelles sont des maladies causées par des virus ? (choisissez plusieurs réponses)",
+        "image": "virus",
+        "type": "MULTIPLE_ANSWERS",
+        "answers": ["Grippe", "Diabète", "COVID-19", "Cancer"],
+        "correctAnswers": [0, 2]
+    }
+]
